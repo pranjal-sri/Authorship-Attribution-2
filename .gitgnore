@@ -1,0 +1,6 @@
+.env
+.DS_Store
+checkpoints*/
+wandb/
+*/__pycache__/*
+*/.ipynb_checkpoints/*
